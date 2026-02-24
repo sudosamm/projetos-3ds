@@ -21,3 +21,7 @@ Após o login, o usuário entra na tela principal.
 - [Aula 01](https://snack.expo.dev/@samuel.ps/aula---01)
 - [Aula 02](https://snack.expo.dev/@samuel.ps/aula---02)
 - [Aula 03](https://snack.expo.dev/@samuel.ps/aula---03)
+## Tempo de entrega e pontuação:
+- 25/02/2026 | ?? (valor total)
+- 26/02/2026 a 27/02/2026 | ?? (valor parcial)
+- 28/02/2026 a 03/03/2026 | ?? (valor mínimo e prazo final)
