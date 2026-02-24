@@ -1,10 +1,11 @@
 # Projeto 01 - Mini Sistema de Controle de Tarefas com Login
-Projeto voltado a fixação dos conteúdos assistidos até o momento.
+Projeto voltado para fixação dos conteúdos assistidos até o momento.
+Caso você queira trabalhar um tema livre, lembre-se de adicionar todas as funcionalidades aqui solicitadas.
 ## Estrutura mínima:
 - Tela 1 - Login
 - Tela 2 - Lista de Tarefas
 ### Observações
-- O login pode validar um CPF fixo.
+- O login pode validar um CPF fixo OU validar um login e senha.
 - Após o login, o usuário entra na tela principal.
 ## Funcionalidades obrigatórias:
 - Adicionar tarefa;
@@ -23,6 +24,6 @@ Projeto voltado a fixação dos conteúdos assistidos até o momento.
 - [Aula 02](https://snack.expo.dev/@samuel.ps/aula---02)
 - [Aula 03](https://snack.expo.dev/@samuel.ps/aula---03)
 ## Tempo de entrega e pontuação:
-- 25/02/2026 | ?? (valor total)
-- 26/02/2026 a 27/02/2026 | ?? (valor parcial)
-- 28/02/2026 a 03/03/2026 | ?? (valor mínimo e prazo final)
+- 25/02/2026 | 2 (valor total)
+- 26/02/2026 a 27/02/2026 | 1,6 (valor parcial)
+- 28/02/2026 a 03/03/2026 | 0,6 (valor mínimo e prazo final)
