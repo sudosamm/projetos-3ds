@@ -13,7 +13,7 @@ Caso você queira trabalhar um tema livre, lembre-se de adicionar todas as funci
 - Marcar como concluída;
 - Mostrar contador de tarefas concluídas;
 - Exibir mensagem alternativa quando não houverem tarefas.
-## Desafio extra:
+## Desafio:
 - Criar filtro: Todas | Pendentes | Concluídas;
 - Adicionar prioridade e mudar cor com base na prioridade;
 - Mudar estilo quando concluída;
