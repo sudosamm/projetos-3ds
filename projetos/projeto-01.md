@@ -1,10 +1,11 @@
 # Projeto 01 - Mini Sistema de Controle de Tarefas com Login
 Projeto voltado a fixação dos conteúdos assistidos até o momento.
 ## Estrutura mínima:
-Tela 1 - Login
-Tela 2 - Lista de Tarefas
-O login pode validar um CPF fixo;
-Após o login, o usuário entra na tela principal.
+- Tela 1 - Login
+- Tela 2 - Lista de Tarefas
+### Observações
+- O login pode validar um CPF fixo.
+- Após o login, o usuário entra na tela principal.
 ## Funcionalidades obrigatórias:
 - Adicionar tarefa;
 - Remover tarefa;
