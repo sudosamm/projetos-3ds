@@ -30,9 +30,9 @@ Caso você queira trabalhar um tema livre, lembre-se de adicionar todas as funci
 - [Aula 02](https://snack.expo.dev/@samuel.ps/aula---02)
 - [Aula 03](https://snack.expo.dev/@samuel.ps/aula---03)
 ## Tempo de entrega e pontuação:
-- 25/02/2026 a 27/02/2026 | 2 (valor total e ponto extra garantido)
-- 28/02/2026 a 03/03/2026 | 1,2 (valor parcial)
-- 04/02/2026 a 06/03/2026 | 0,6 (valor mínimo e prazo final)
+- 25/02/2026 a 27/02/2026 | 2,0 (valor total e ponto extra garantido)
+- 28/02/2026 a 03/03/2026 | 1,8 a 1,2 (valor parcial)
+- 04/02/2026 a 06/03/2026 | 1,0 a 0,6 (valor mínimo e prazo final)
 - O ponto extra só será concedido caso a entrega seja realizada dentro do primeiro prazo.
 ## Instruções de entrega:
 - Dê estrela no repositório atual;
