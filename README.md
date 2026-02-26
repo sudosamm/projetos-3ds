@@ -2,7 +2,7 @@
 Repositório para armazenar projetos e aulas da turma de DS 3º ano
 ## Projetos
 [Clique aqui para acessar a última atividade disponibilizada.](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md)
-- [Projeto 01](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md)
+- [Projeto 01](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) (Projeto Atual | Em andamento)
 - Projeto 02
 - Projeto 03
 - Projeto 04
