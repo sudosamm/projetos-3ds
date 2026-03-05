@@ -16,7 +16,7 @@ def get_remaining(deadline_str):
     diff = deadline - now
     
     if diff.days < 0:
-        return "⚠️ Atrasado"
+        return "⚠️ Finalizado"
     if diff.days == 0:
         hours = diff.seconds // 3600
         return f"🔥 Hoje ({hours}h restantes)"
