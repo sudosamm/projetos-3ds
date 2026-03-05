@@ -115,9 +115,9 @@ Durante a apresentação o aluno deve ser capaz de:
 
 | Data          | Pontuação máxima |
 |---------------|------------------|
-| 05/03 a 13/03 | até 2,0 pontos   |
-| 14/03 a 17/03 | até 1,5 pontos   |
-| 18/03 a 19/03 | até 1,0 ponto    |
+| 05/03 a 12/03 | até 2,0 pontos   |
+| 13/03 a 16/03 | até 1,5 pontos   |
+| 17/03 a 18/03 | até 1,0 ponto    |
 
 A pontuação de prazo será **somada à nota da apresentação**.
 
