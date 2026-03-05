@@ -4,14 +4,10 @@ Repositório para armazenar projetos e aulas da turma de DS 3º ano
 [Clique aqui para acessar a última atividade disponibilizada.](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md)
 | Projeto | Situação |
 |---------|----------|
-| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | Em andamento - ![deadline](https://img.shields.io/badge/deadline-10_April_2026-red) |
-| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | Em andamento - Projeto Atual - Finaliza dia 08/03 |
+| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | Em andamento - ![deadline](https://img.shields.io/badge/deadline-06_Março_2026-red) |
+| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | Em andamento - Projeto Atual - ![deadline](https://img.shields.io/badge/deadline-18_Março_2026-red) |
 | Projeto 03 | Em construção... |
 | Projeto 04 | Em construção... |
-
-| Projeto | Prazo Final | Tempo Restante |
-| :--- | :--- | :--- |
-| Carregando... | | |
 
 ## Pontuação
 Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O projeto obrigatório será o equivalente a uma pontuação final (que ainda será definida). A pontuação final receberá decrementos de acordo com a data de entrega.
