@@ -9,9 +9,9 @@ Repositório para armazenar projetos e aulas da turma de DS 3º ano
 | Projeto 03 | Em construção... |
 | Projeto 04 | Em construção... |
 
-| Projeto | Prazo Final | Status | Tempo Restante |
-| :--- | :--- | :--- | :--- |
-| Carregando... | | | |
+| Projeto | Prazo Final | Tempo Restante |
+| :--- | :--- | :--- |
+| Carregando... | | |
 
 ## Pontuação
 Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O projeto obrigatório será o equivalente a uma pontuação final (que ainda será definida). A pontuação final receberá decrementos de acordo com a data de entrega.
