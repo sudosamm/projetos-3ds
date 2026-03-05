@@ -19,7 +19,7 @@ Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O proje
 No terminal execute os comandos:
 
 - `npx create-expo-app --template`
-- Escolha a template "Blank" e insira o nome do projeto.
+- Escolha a template "**Blank**" e insira o nome do projeto.
 - `cd nome_projeto` para navegar até a pasta do projeto.
 - Instale as dependências do android web para rodar seu projeto local sem emuladores ou dispositivos extras: `npx expo install react-dom react-native-web`.
 - Rode seu projeto na web `npm run web`.
