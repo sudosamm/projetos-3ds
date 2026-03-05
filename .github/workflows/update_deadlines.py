@@ -23,35 +23,31 @@ def calcular_restante(data_final):
     return f"⚠️ Apenas {horas}h restantes!"
 
 def atualizar_readme():
-    if not os.path.exists("README.md"):
-        print("Erro: README.md não encontrado.")
+    file_path = "README.md"
+    if not os.path.exists(file_path):
+        print("Arquivo README.md não encontrado!")
         return
 
-    with open("README.md", "r", encoding="utf-8") as f:
-        conteudo_original = f.read()
-
-    novo_conteudo = conteudo_original
+    with open(file_path, "r", encoding="utf-8") as f:
+        conteudo = f.read()
 
     for tag, data in deadlines.items():
-        texto_dinamico = calcular_restante(data)
+        texto_novo = calcular_restante(data)
         
-        # O Regex abaixo busca: QUALQUER_COISA # O '?' torna a busca não-gananciosa (impede que ele apague o arquivo todo)
-        padrao = rf".*?"
-        substituicao = f"{texto_dinamico} "
+        # Esta Regex é mais rigorosa: 
+        # Ela procura exatamente o par de tags e captura o que estiver no meio
+        # \s* permite espaços em branco opcionais
+        padrao = rf"()[\s\S]*?()"
+        substituicao = rf"\1 {texto_novo} \2"
         
-        # Verifica se a tag existe antes de tentar substituir
-        if re.search(padrao, novo_conteudo, flags=re.DOTALL):
-            novo_conteudo = re.sub(padrao, substituicao, novo_conteudo, flags=re.DOTALL)
+        if re.search(padrao, conteudo):
+            conteudo = re.sub(padrao, substituicao, conteudo)
+            print(f"Atualizando {tag}: {texto_novo}")
         else:
-            print(f"Aviso: Tag {tag} não encontrada no documento.")
+            print(f"Erro: Tag {tag} não encontrada ou mal formatada no README.")
 
-    # Só salva se houve alteração real para evitar commits inúteis
-    if novo_conteudo != conteudo_original:
-        with open("README.md", "w", encoding="utf-8") as f:
-            f.write(novo_conteudo)
-        print("README atualizado com sucesso!")
-    else:
-        print("Nenhuma alteração necessária.")
+    with open(file_path, "w", encoding="utf-8") as f:
+        f.write(conteudo)
 
 if __name__ == "__main__":
     atualizar_readme()
