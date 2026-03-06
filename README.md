@@ -1,7 +1,8 @@
 # Projetos 3º Desenvolvimento de Sistemas
 Repositório para armazenar projetos e aulas da turma de DS 3º ano
 ## 🔥 Projeto Atual
-<!--PROJETO_START--> <!--PROJETO_END-->
+<!--PROJETO_START--> 🚀 **Projeto 01 - Mini Sistema de Tarefas**  
+📎 https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md <!--PROJETO_END-->
 ## Projetos
 |Projeto | Situação |
 |--------|----------|
