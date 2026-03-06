@@ -4,8 +4,8 @@ Repositório para armazenar projetos e aulas da turma de DS 3º ano
 [Clique aqui para acessar a última atividade disponibilizada.](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md)
 | Projeto | Situação |
 |---------|----------|
-| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | ⏳ Finaliza em 0dias e 15horas restantes |
-| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | 🚀 Finaliza em 12dias e 15horas restantes |
+| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START-->  <!--P1_END--> |
+| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START-->  <!--P2_END--> |
 | Projeto 03 | Em construção... |
 | Projeto 04 | Em construção... |
 ## Pontuação
@@ -25,5 +25,6 @@ No terminal execute os comandos:
 - `cd nome_projeto` para navegar até a pasta do projeto.
 - Instale as dependências do android web para rodar seu projeto local sem emuladores ou dispositivos extras: `npx expo install react-dom react-native-web`.
 - Rode seu projeto na web `npm run web`.
+
 
 
