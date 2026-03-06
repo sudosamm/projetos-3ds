@@ -1,13 +1,12 @@
 # Projetos 3º Desenvolvimento de Sistemas
 Repositório para armazenar projetos e aulas da turma de DS 3º ano
+## 🔥 Projeto Atual
+<!--PROJETO_START--> <!--PROJETO_END-->
 ## Projetos
-- [Projeto 01 - Mini Sistema de Tarefas](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START-->
-Apenas 15 horas restantes para a entrega final!
-<!--P1_END-->
-
-- [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START-->
-12 dias e 15 horas restantes para a entrega final!
-<!--P2_END-->
+|Projeto | Situação |
+|--------|----------|
+| [Projeto 01 - Mini Sistema de Tarefas](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START--> Apenas 15 horas restantes para a entrega final! <!--P1_END--> |
+| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START--> 12 dias e 15 horas restantes para a entrega final! <!--P2_END--> |
 ## Pontuação
 Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O projeto obrigatório será o equivalente a uma pontuação final (que ainda será definida). A pontuação final receberá decrementos de acordo com a data de entrega.
 - O projeto possui 3 janelas de datas para entrega, cada uma contendo sua pontuação;
@@ -25,6 +24,7 @@ No terminal execute os comandos:
 - `cd nome_projeto` para navegar até a pasta do projeto.
 - Instale as dependências do android web para rodar seu projeto local sem emuladores ou dispositivos extras: `npx expo install react-dom react-native-web`.
 - Rode seu projeto na web `npm run web`.
+
 
 
 
