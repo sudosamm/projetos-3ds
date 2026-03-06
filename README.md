@@ -4,8 +4,12 @@ Repositório para armazenar projetos e aulas da turma de DS 3º ano
 [Clique aqui para acessar a última atividade disponibilizada.](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md)
 | Projeto | Situação |
 |---------|----------|
-| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START-->  <!--P1_END--> |
-| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START-->  <!--P2_END--> |
+| [Projeto 01 - Mini Sistema de Controle de Tarefas com Login](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START-->
+0 dias e 15 horas restantes
+<!--P1_END--> |
+| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START-->
+12 dias e 15 horas restantes
+<!--P2_END--> |
 | Projeto 03 | Em construção... |
 | Projeto 04 | Em construção... |
 ## Pontuação
