@@ -18,8 +18,13 @@ function tempoRestante(dataFinalISO) {
   const horasTotais = Math.floor(diff / (1000 * 60 * 60))
   const dias = Math.floor(horasTotais / 24)
   const horas = horasTotais % 24
-
-  return `${dias}dias e ${horas}horas restantes`
+  
+  if (dias < 0) {
+    return `Apenas ${horas} horas restantes!`
+  }
+  else {
+    return `${dias} dias e ${horas} horas restantes`
+  }
 }
 
 const deadlines = {
