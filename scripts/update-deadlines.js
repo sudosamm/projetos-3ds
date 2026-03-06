@@ -60,6 +60,7 @@ function atualizarBloco(readme, start, end, conteudo){
   )
 }
 
+/*
 function barraProgresso(inicio, fim) {
 
   const agora = new Date()
@@ -78,12 +79,15 @@ function barraProgresso(inicio, fim) {
 
   return `${barra} ${Math.round(progresso*100)}%`
 }
+*/
 
 const p1 = tempoRestante("2026-03-06T23:59:59-03:00")
 const p2 = tempoRestante("2026-03-18T23:59:59-03:00")
-// const pA = projetoAtual()
+/*
+const pA = projetoAtual()
 const pro1 = barraProgresso("2026-02-25T09:30:00-03:00", "2026-03-06T23:59:59-03:00")
 const pro2 = barraProgresso("2026-03-05T10:30:00-03:00", "2026-03-18T23:59:59-03:00")
+*/
 
 readme = atualizarBloco(
   readme,
@@ -99,6 +103,7 @@ readme = atualizarBloco(
   `${p2}`
 )
 
+/*
 readme = atualizarBloco(
   readme,
   "<!--PRO1_START-->",
@@ -113,11 +118,12 @@ readme = atualizarBloco(
   `${pro2}`
 )
 
-/*readme = atualizarBloco(
+readme = atualizarBloco(
   readme,
   "<!--PROJETO_START-->",
   "<!--PROJETO_END-->",
   `${pA}`
-)*/
+)
+*/
 
 fs.writeFileSync(readmePath, readme)
