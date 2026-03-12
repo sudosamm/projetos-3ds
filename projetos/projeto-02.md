@@ -77,47 +77,51 @@ O projeto valerá 10 pontos no total.
 
 ### 1. Design da aplicação (2 pts)
 
-Avaliação da interface do aplicativo:
-- organização visual
-- legibilidade
-- uso de cores
-- disposição dos elementos na tela
+| Avaliação da interface do aplicativo: | Qtd |
+| --- | --- |
+| [✔] organização visual | 0.5 |
+| [✔] legibilidade | 0.5 |
+| [✔] uso de cores | 0.5 |
+| [✔] disposição dos elementos na tela | 0.5 |
 
 ### 2. Funcionalidade do sistema (2 pts)
 
-Avaliação do funcionamento geral:
-- login funcionando
-- cadastro funcionando
-- criação de produtos
-- visualização de produtos
-- carrinho funcionando
-- compra funcionando
+| Avaliação do funcionamento geral | Qtd | 
+| --- | --- |
+| [✔] login funcionando | 0.2 |
+| [✔] cadastro funcionando | 0.5 |
+| [✔] criação de produtos | 0.4 |
+| [✔] visualização de produtos | 0.2 |
+| [✔] carrinho funcionando | 0.5 |
+| [✔] compra funcionando | 0.2 |
 
 ### 3. Organização do código (2 pts)
 
-Avaliação da estrutura do projeto:
-- separação em arquivos
-- nomes de variáveis claros
-- organização do código
-- uso correto de componentes
+| Avaliação da estrutura do projeto | Qtd | 
+| --- | --- |
+| [✔] separação em arquivos | 0.6 |
+| [✔] nomes de variáveis objetivos | 0.6 |
+| [✔] organização do código | 0.6 |
+| [✔] uso correto de componentes | 0.2 |
 
 ### 4. Apresentação do projeto (2 pts)
 
-Durante a apresentação o aluno deve ser capaz de:
-- explicar como funciona o login
-- explicar como os produtos são salvos
-- explicar como o carrinho funciona
-- mostrar onde o AsyncStorage está sendo utilizado
+| Durante a apresentação o aluno deve ser capaz de | Qtd |
+| --- | --- |
+| [✔] explicar como funciona o login | 0.2 |
+| [✔] explicar como os produtos são salvos | 0.7 |
+| [✔] explicar como o carrinho funciona | 0.7 |
+| [✔] mostrar onde o AsyncStorage está sendo utilizado | 0.4 |
 
 ## Tempo de entrega e pontuação
 
 ### O projeto possui prazo escalonado de entrega.
 
-| Data          | Pontuação máxima |
-|---------------|------------------|
-| 05/03 a 12/03 | até 2,0 pontos   |
-| 13/03 a 16/03 | até 1,5 pontos   |
-| 17/03 a 18/03 | até 1,0 ponto    |
+| Data          | Pontuação máxima | Apresentação |
+|---------------|------------------|--------------|
+| 05/03 a 13/03 | até 2,0 pontos   | 16/03        |
+| 14/03 a 16/03 | até 1,5 pontos   | 18/03        |
+| 17/03 a 18/03 | até 1,0 ponto    | 23/03        |
 
 A pontuação de prazo será **somada à nota da apresentação**.
 
