@@ -4,7 +4,7 @@ Repositório para armazenar projetos e aulas da turma de DS 3º ano
 |Projeto | Situação |
 |--------|----------|
 | [Projeto 01 - Mini Sistema de Tarefas](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-01.md) | <!--P1_START--> Prazo encerrado <!--P1_END--> |
-| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START--> 5 dias e 19 horas restantes para a entrega final! <!--P2_END--> |
+| [Projeto 02 - Sistema de Loja Mobile](https://github.com/sudosamm/projetos-3ds/blob/main/projetos/projeto-02.md) | <!--P2_START--> 5 dias e 18 horas restantes para a entrega final! <!--P2_END--> |
 ## Pontuação
 Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O projeto obrigatório será o equivalente a uma pontuação final (que ainda será definida). A pontuação final receberá decrementos de acordo com a data de entrega.
 - O projeto possui 3 janelas de datas para entrega, cada uma contendo sua pontuação;
