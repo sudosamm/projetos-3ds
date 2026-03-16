@@ -119,9 +119,7 @@ O projeto valerá 10 pontos no total.
 
 | Data          | Pontuação máxima | Apresentação |
 |---------------|------------------|--------------|
-| 05/03 a 13/03 | até 2,0 pontos   | 16/03        |
-| 14/03 a 16/03 | até 1,5 pontos   | 18/03        |
-| 17/03 a 18/03 | até 1,0 ponto    | 23/03        |
+| 05/03 a 20/03 | até 2,0 pontos   | 23/03        |
 
 A pontuação de prazo será **somada à nota da apresentação**.
 
