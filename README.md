@@ -14,14 +14,27 @@ Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O proje
 - Cada desafio completo concederá uma pontuação extra:
   - A soma total das 5 notas é de 2,5pts;
   - Esta nota pode ser dividida entre as disciplinas Projeto Integrador e Desenvolvimento de Aplicações Móveis.
-## Passos para buildar o projeto localmente:
+## Passos para executar o projeto localmente:
 No terminal execute os comandos:
 
-- `npx create-expo-app --template`
+```bash
+npx create-expo-app --template
+```
 - Escolha a template "**Blank**" e insira o nome do projeto.
 - `cd nome_projeto` para navegar até a pasta do projeto.
-- Instale as dependências do android web para rodar seu projeto local sem emuladores ou dispositivos extras: `npx expo install react-dom react-native-web`.
-- Rode seu projeto na web `npm run web`.
+- Instale as dependências do **android web** para rodar seu projeto local sem emuladores ou dispositivos extras: 
+```bash
+npx expo install react-dom react-native-web
+```
+- Outras dependências:
+```bash
+npx expo install @react-navigation/native react-native-screens react-native-safe-area-context
+```
+```bash
+npm install @react-navigation/native-stack @react-navigation/drawer @react-navigation/bottom-tabs
+```
+- Rode seu projeto na web com `npm run web` ou em um android ou emulador com `npm run android`.
+
 
 
 
