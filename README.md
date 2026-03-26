@@ -14,6 +14,13 @@ Cada projeto terá suas funcionalidades obrigatórias e desafios extras. O proje
 - Cada desafio completo concederá uma pontuação extra:
   - A soma total das 5 notas é de 2,5pts;
   - Esta nota pode ser dividida entre as disciplinas Projeto Integrador e Desenvolvimento de Aplicações Móveis.
+<<<<<<< HEAD
+=======
+## Documentação
+Links de acesso para documentação para pesquisas aprofundadas:
+- [Expo](https://docs.expo.dev/)
+- [React Native](https://reactnative.dev/docs/getting-started)
+>>>>>>> 47709bf (Projeto 3 e exemplo de navigation)
 ## Passos para executar o projeto localmente:
 No terminal execute os comandos:
 
@@ -34,11 +41,14 @@ npx expo install @react-navigation/native react-native-screens react-native-safe
 npm install @react-navigation/native-stack @react-navigation/drawer @react-navigation/bottom-tabs
 ```
 - Rode seu projeto na web com `npm run web` ou em um android ou emulador com `npm run android`.
+<<<<<<< HEAD
 
 
 
 
 
+=======
+>>>>>>> 47709bf (Projeto 3 e exemplo de navigation)
 
 
 
