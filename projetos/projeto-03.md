@@ -106,7 +106,7 @@ Stack
 
 ## Critérios de avaliação
 
-### 1. Navegação (2 pts)
+### 1. Navegação (1 pts)
 - Stack funcionando
 - Tabs/Drawer funcionando
 
@@ -114,15 +114,15 @@ Stack
 - Login → App
 - Logout → Login
 
-### 3. Uso de dados (2 pts)
+### 3. Uso de dados (1 pts)
 - Envio de parâmetros (params)
 - Exibição correta dos dados
 
-### 4. Organização (2 pts)
+### 4. Organização (3 pts)
 - Separação em arquivos
 - Código organizado
 
-### 5. Design (2 pts)
+### 5. Design (3 pts)
 - Interface organizada
 - Legibilidade
 - Uso de cores
