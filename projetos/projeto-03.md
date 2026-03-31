@@ -131,8 +131,8 @@ Stack
 
 ## Janela de entrega
 
-- Até dia 05/04 para desenvolvimento
-- Apresentações dia 06/04 (ou posterior caso seja dia de prova)
+- Até dia 07/04 para desenvolvimento
+- Apresentações dia 07/04 (ou posterior caso seja dia de prova)
 
 ---
 
