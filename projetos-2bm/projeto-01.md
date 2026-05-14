@@ -122,8 +122,7 @@ Supabase
 ```bash
 npx expo install @supabase/supabase-js
 ```
-
-- Rode seu projeto na web com `npm run web` ou em um android ou emulador com `npm run android`.
+Rode seu projeto na web com `npm run web` ou em um android ou emulador com `npm run android`.
 
 ---
 
